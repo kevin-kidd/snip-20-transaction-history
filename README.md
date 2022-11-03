@@ -1,7 +1,7 @@
 ## Description
 You can use this tool to export and filter your [SNIP-20](https://github.com/SecretFoundation/SNIPs/blob/master/SNIP-20.md) transaction history on [Secret Network](https://scrt.network) mainnet.
 
-You can use the tool here: 
+You can use the tool here: https://snip-20-transaction-history.vercel.app/
 
 ### Usage
 
